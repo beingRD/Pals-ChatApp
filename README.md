@@ -1,4 +1,4 @@
-# Pals ChatApp
+# WePals ChatApp
 
 A new Flutter project.
 
