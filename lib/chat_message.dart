@@ -1,6 +1,11 @@
+//  chat_message.dart
+//  Flutter WePals ChatApp
+//  Created by Rishabh Dev on 7/31/19.
+//  Copyright © 2019 Rishabh Dev. All rights reserved.
+
 import "package:flutter/material.dart";
 
-const String _name = "Rishabh";
+const String _name = "beingRD";
 
 class ChatMsg extends StatelessWidget {
   final String text;
