@@ -1,4 +1,4 @@
-# chat_app
+# Pals ChatApp
 
 A new Flutter project.
 
